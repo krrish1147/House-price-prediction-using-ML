@@ -28,7 +28,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/dragon-real-estate-price-predictor.git
+git clone https://github.com/krrish1147/House-price-prediction-using-ML.git
 cd dragon-real-estate-price-predictor
 Install the required dependencies:
 
